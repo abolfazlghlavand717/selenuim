@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "hM/cwIdgl7csYHnxbdgn92JX2AkxS02rsSpt3OBC0ApSt1BZ5u8Q0ZGbKxwWXn2NS7kS244TZYdgrCc5HBcEYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abolfazl\\Desktop\\selenium\\selenium\\selenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\selenium.webdriver.chromedriver\\118.0.5993.7000\\selenium.webdriver.chromedriver.118.0.5993.7000.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Abolfazl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

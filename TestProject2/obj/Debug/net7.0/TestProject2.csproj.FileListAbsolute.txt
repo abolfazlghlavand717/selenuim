@@ -1,0 +1,5 @@
+C:\Users\Abolfazl\Desktop\selenium\TestProject2\obj\Debug\net7.0\TestProject2.csproj.AssemblyReference.cache
+C:\Users\Abolfazl\Desktop\selenium\TestProject2\obj\Debug\net7.0\TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abolfazl\Desktop\selenium\TestProject2\obj\Debug\net7.0\TestProject2.AssemblyInfoInputs.cache
+C:\Users\Abolfazl\Desktop\selenium\TestProject2\obj\Debug\net7.0\TestProject2.AssemblyInfo.cs
+C:\Users\Abolfazl\Desktop\selenium\TestProject2\obj\Debug\net7.0\TestProject2.csproj.CoreCompileInputs.cache

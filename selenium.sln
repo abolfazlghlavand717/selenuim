@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "selenium", "selenium\selenium.csproj", "{5DFC6A53-5BD6-4D3A-AFC2-0951BB424592}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{AEA42A65-B2ED-4013-8A91-AEAA26FE6C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{2BC61E25-794D-4B7E-8798-0BEA44D4F75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFC6A53-5BD6-4D3A-AFC2-0951BB424592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFC6A53-5BD6-4D3A-AFC2-0951BB424592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFC6A53-5BD6-4D3A-AFC2-0951BB424592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFC6A53-5BD6-4D3A-AFC2-0951BB424592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA42A65-B2ED-4013-8A91-AEAA26FE6C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA42A65-B2ED-4013-8A91-AEAA26FE6C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA42A65-B2ED-4013-8A91-AEAA26FE6C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA42A65-B2ED-4013-8A91-AEAA26FE6C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC61E25-794D-4B7E-8798-0BEA44D4F75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC61E25-794D-4B7E-8798-0BEA44D4F75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC61E25-794D-4B7E-8798-0BEA44D4F75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC61E25-794D-4B7E-8798-0BEA44D4F75F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639C3F13-F848-480C-8DC1-F80E0B3477A3}
+	EndGlobalSection
+EndGlobal
